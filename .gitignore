@@ -1,0 +1,4 @@
+.vscode/
+.kakrc*
+.ccls*
+build/
